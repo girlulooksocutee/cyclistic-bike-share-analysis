@@ -106,6 +106,14 @@ Because of this, the findings should not be treated as representative of full-ye
 
 ---
 
+## Data Source
+
+This project uses public Divvy bike-share trip data:
+- Divvy Trips 2019 Q1
+- Divvy Trips 2020 Q1
+
+The original raw datasets are not included in this repository due to file size.
+
 ## Repository Structure
 
 ```text
